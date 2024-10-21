@@ -1,0 +1,22 @@
+==================CSS=============
+
+CSS = Casecading Style Sheet
+
+1. Inline CSS
+2. Internal CSS
+3. External CSS
+
+==============Identifier===========
+
+1. tag
+2. class
+3. id
+
+
+
+=========Some Special Tags========
+
+<section></section>
+<div></div>
+<style></style>
+<script></script>
